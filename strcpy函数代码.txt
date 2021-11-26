@@ -10,10 +10,6 @@ char*StrCpy(char* src)
        return dst;
 }
 /**
-<<<<<<< HEAD
-本地编辑
-**/
-=======
-远程edit
+本地编辑 B20031625 贾诗勐
 **/
 
